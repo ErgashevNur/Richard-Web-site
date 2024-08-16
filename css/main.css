@@ -133,6 +133,8 @@ li {
 button {
   background-color: var(--bg-color);
   cursor: pointer;
+  font-family: "Gothic A1";
+  font-weight: 400;
 }
 
 /* ? main-first-page */
